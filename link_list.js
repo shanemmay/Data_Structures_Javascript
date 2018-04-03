@@ -11,7 +11,7 @@ function create_node()
   }
   return node;
 }
-//*************LINK LIST*************//
+//*************LINK LIST************//
 function create_link_list()
 {
   var link_list = {};
